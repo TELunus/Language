@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1368070784 source:c:\users\telunus\documents\github\language\identifier.cpp
+	"Identifier.h"
+
+1368070778 c:\users\telunus\documents\github\language\identifier.h
+	<string>
+
+1353754660 source:c:\users\telunus\documents\github\language\main.cpp
+	<iostream>
+
